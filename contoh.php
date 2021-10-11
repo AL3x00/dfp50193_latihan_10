@@ -30,7 +30,7 @@
         RM<?php echo number_format($total, 2); ?>
     </p>
 
-    <p><a href="bmi.php">B.M.I</a></p>
+    <p><a href="bmi.php">B.M.I.</a></p>
 </body>
 
 </html>
